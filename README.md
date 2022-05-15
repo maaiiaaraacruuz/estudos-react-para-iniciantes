@@ -2,6 +2,7 @@
 
 Você quer estudar React mas não sabe por onde começar? Saiba que neste repositório, você encontrará projetos práticos para conhecer a linguagem e se familiarizar com essa poderosa biblioteca Javascript que está super em alta no mercado Front-End.
 
+
 Este repositório foi criado para documentar minha jornada estudando React, que começou em Maio de 2022, quando fiz minha transição de carreira (Marketing --> Tecnologia)
 
 Mas antes de irmos para os projetos em si, queria deixar algumas referências e materiais sobre React.
