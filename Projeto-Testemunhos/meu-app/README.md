@@ -4,6 +4,8 @@
 
 O projeto consiste na criação de uma página de depoimentos em React, onde o objetivo é reproduzir o mais fiel possível o modelo existente na página do FreeCodeCamp, que é um canal do Youtube com diversos cursos de tecnologia.
 
+<img src=https://github.com/maaiiaaraacruuz/estudos-react-para-iniciantes/blob/main/Projeto-Testemunhos/meu-app/depoimentos-react.png/>
+
 Os depoimentos são de alunos, que em algum momento de suas vidas fizeram cursos no FreeCodeCamp.
 <br>
 <br>
