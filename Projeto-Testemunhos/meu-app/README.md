@@ -1,6 +1,6 @@
 # React para Iniciantes: Página de Depoimentos :red_haired_woman: :person_red_hair: :older_woman:
 
-### :link: Link para ver a aplicação: 
+### :link: Link para ver a aplicação: https://projeto-testemunhos-estudos.vercel.app/
 
 O projeto consiste na criação de uma página de depoimentos em React, onde o objetivo é reproduzir o mais fiel possível o modelo existente na página do FreeCodeCamp, que é um canal do Youtube com diversos cursos de tecnologia.
 
