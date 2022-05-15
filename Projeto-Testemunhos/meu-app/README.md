@@ -1,3 +1,35 @@
+# React para Iniciantes: Página de Depoimentos :red_haired_woman: :person_red_hair: :older_woman:
+
+### :link: Link para ver a aplicação: 
+
+O projeto consiste na criação de uma página de depoimentos em React, onde o objetivo é reproduzir o mais fiel possível o modelo existente na página do FreeCodeCamp, que é um canal do Youtube com diversos cursos de tecnologia.
+
+Os depoimentos são de alunos, que em algum momento de suas vidas fizeram cursos no FreeCodeCamp.
+<br>
+<br>
+## :dart: Problema de Negócio a ser resolvido:
+
+<b>Do posto de vista de negócio<b>, a página tinha como objetivo mostrar para novos possíveis estudantes a opinião de outras pessoas sobre o canal, e convece-las que o conteúdo de lá pode ajudá-las nesta jornada de aprendizado em Tech.
+  
+<br>
+  
+## :computer: Problema de Tecnologia a ser resolvido:
+
+<b>Do ponto de vista de tech<b>, era necessário criar um código dinâmico, ou seja, que se adaptasse ao longo do tempo para receber novos depoimentos e ser fácil a manutenção.
+
+E foi aí que entrou o React, porque como o React é baseado em componentes, foi criado um componente único chamado Testemunhos, que serviria para todos os depoimentos, uma vez que o layout de todos eles eram iguais.
+
+E para facilitar a personalização foi usado props, justamente para deixar dinâmico o nome de cada pessoa, o cargo que ela ocupa, onde ela trabalha, etc, e não ter que mexer no componente único a todos, toda vez que surgir um depoimento novo.
+<br>
+<br>
+  
+## O que vou aprender com este projeto?
+  
+Com o projeto, você será capaz de entender inicialmente o que é o React, entender que ele é baseado em componentes (funcionais e de classe), conhecer a propriedade props para deixar o código dinâmico e a questão de importação e exportação de componentes. 
+  
+  
+=======================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
