@@ -22,4 +22,4 @@ Atualmente temos os projetos abaixo para você ir praticando:
 
 Esta atividade tem como objetivo criar uma página com 3 depoimentos de alunos sobre uma empresa de tecnologia, e é excelente para entender a sintaxe do React, caso você nunca tenha visto.
 
-Para mais detalhes, veja o projeto aqui: 
+Para mais detalhes, veja o projeto aqui: https://github.com/maaiiaaraacruuz/estudos-react-para-iniciantes/tree/main/Projeto-Testemunhos/meu-app
