@@ -11,7 +11,9 @@ Os depoimentos são de alunos, que em algum momento de suas vidas fizeram cursos
 <br>
 ## :dart: Problema de Negócio a ser resolvido:
 
-<b>Do posto de vista de negócio<b>, a página tinha como objetivo mostrar para novos possíveis estudantes a opinião de outras pessoas sobre o canal, e convece-las que o conteúdo de lá pode ajudá-las nesta jornada de aprendizado em Tech.
+<b>Do posto de vista de negócio<b>, a página tinha como objetivo mostrar para novos possíveis estudantes a opinião de outras pessoas sobre o canal, e convencê-las que o conteúdo de lá pode ajudá-las nesta jornada de aprendizado em Tech.
+  
+No fim das contas, "captar" novos estudantes através dos depoimentos.
   
 <br>
   
@@ -19,9 +21,9 @@ Os depoimentos são de alunos, que em algum momento de suas vidas fizeram cursos
 
 <b>Do ponto de vista de tech<b>, era necessário criar um código dinâmico, ou seja, que se adaptasse ao longo do tempo para receber novos depoimentos e ser fácil a manutenção.
 
-E foi aí que entrou o React, porque como o React é baseado em componentes, foi criado um componente único chamado Testemunhos, que serviria para todos os depoimentos, uma vez que o layout de todos eles eram iguais.
+E foi aí que entrou o React, porque como o React é baseado em componentes, foi criado um componente único chamado Testemunhos, que serviria para todos os depoimentos, uma vez que o layout de todos eram iguais.
 
-E para facilitar a personalização foi usado props, justamente para deixar dinâmico o nome de cada pessoa, o cargo que ela ocupa, onde ela trabalha, etc, e não ter que mexer no componente único a todos, toda vez que surgir um depoimento novo.
+E para facilitar a personalização foi usado props justamente para deixar dinâmico o nome de cada pessoa, o cargo que ela ocupa, onde ela trabalha, etc, e não ter que mexer no componente principal, toda vez que surgir um depoimento novo.
 <br>
 <br>
   
